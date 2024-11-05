@@ -33,3 +33,6 @@ huggingface_hub
 langserve
 sse_starlette
 streamlit
+langchain_nvidia_ai_endpoints
+crewai
+crewai_tools

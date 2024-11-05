@@ -117,9 +117,7 @@ if api_key:
         
         user_input = st.text_input("Your question:")
         if user_input:
-            print("A1111111111111111111111111111") 
             session_history = get_session_history(session_id)
-            print("A22222222222222222222222222222222222222222222") 
             response = conversational_rag_chain.invoke(
                 {'input': user_input},
                 config={
