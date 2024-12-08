@@ -1,0 +1,46 @@
+[
+    {
+        "input": {"input_question": "Which machine learning algorithm was found to have the highest accuracy in predicting credit scores in the study?"},
+        "output": "Logistic Regression, with an accuracy of 94%."
+    },
+    {
+        "input": {"input_question": "What is the purpose of converting tabular data into images for credit scoring?"},
+        "output": "To leverage the performance benefits of 2D CNNs by using each pixel to represent a feature bin, enabling the application of convolutional neural networks for credit scoring."
+    },
+    {
+        "input": {"input_question": "What feature selection method proposed in the study outperformed PCA for credit scoring?"},
+        "output": "The if_any voting method."
+    },
+    {
+        "input": {"input_question": "What is the primary advantage of the Deep Genetic Cascade Ensemble of Classifiers (DGCEC) in credit scoring?"},
+        "output": "It achieves higher prediction accuracy by combining evolutionary computation, ensemble learning, and deep learning techniques with a 16-layer structure."
+    },
+    {
+        "input": {"input_question": "What are the two major issues with machine learning models in credit scoring as identified in the survey?"},
+        "output": "The incapability of some machine learning models to explain predictions and the issue of imbalanced datasets."
+    },
+    {
+        "input": {"input_question": "What additional factors did the study incorporate into traditional credit scoring models to improve accuracy?"},
+        "output": "The study incorporated social behavior information, such as prestige scores, forum currency, and group memberships, to address information asymmetry and improve the accuracy of credit scoring models."
+    },
+    {
+        "input": {"input_question": "What are the four types of machine learning methods reviewed for credit scoring in this study?"},
+        "output": "Statistical methods, Hybrid methods, Artificial Intelligence methods, and Ensemble learning methods."
+    },
+    {
+        "input": {"input_question": "What are the three performance metrics used in the study to evaluate credit scoring methods?"},
+        "output": "Total percentage of correctly classified cases (total PCC), bad rate among accepts (BRA), and receiver operating characteristics (ROC) curves."
+    },    
+    {
+        "input": {"input_question": "Which statistical and soft computing methods are compared for customer credit rating in the study?"},
+        "output": "Logistic regression, Fisher discriminant analysis, multilayer perception network, and support vector machines."
+    },
+    {
+        "input": {"input_question": "What combination of algorithms is used in the proposed credit scoring system for financial institutions?"},
+        "output": "Deep neural network and K-Means algorithm."
+    },
+    {
+        "input": {"input_question": "What machine learning algorithm is highlighted for its efficiency in building personal credit risk assessment models in the big data context?"},
+        "output": "The XGBoost machine learning algorithm, noted for its distributed and parallel computing capabilities."
+    }
+]

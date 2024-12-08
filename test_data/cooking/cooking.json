@@ -1,0 +1,42 @@
+[
+    {
+        "input": {"input_question": "What is the purpose of the 'Making the Most of Every Bite' cookbook?"},
+        "output": "It is designed to provide high-protein, high-calorie recipes for patients experiencing weight loss due to illness."
+    },
+    {
+        "input": {"input_question": "Who endorsed the contents of the cookbook?"},
+        "output": "The Irish Nutrition & Dietetic Institute (INDI) and the Irish Society for Clinical Nutrition and Metabolism (IrSPEN)."
+    },
+    {
+        "input": {"input_question": "What is a common ingredient used to enrich milk in the recipes?"},
+        "output": "Skimmed milk powder."
+    },
+    {
+        "input": {"input_question": "What type of soups does the cookbook emphasize for patients with difficulty swallowing?"},
+        "output": "Smooth and blended soups, which can be strained if necessary."
+    },
+    {
+        "input": {"input_question": "What is the recommendation for consuming fluids during nausea?"},
+        "output": "Drink flat ginger ale or include ginger in meals to soothe nausea."
+    },
+    {
+        "input": {"input_question": "What is the main ingredient in Moroccan Chicken Stew?"},
+        "output": "Skinless chicken legs and a Moroccan spice blend."
+    },
+    {
+        "input": {"input_question": "What is a recommended serving suggestion for Thai-Style Chicken Curry?"},
+        "output": "Serve with rice or Asian-style noodles like soba or udon."
+    },
+    {
+        "input": {"input_question": "What is the nutritional benefit of using tuna in Grilled Tuna with Chickpea and Spinach Salad?"},
+        "output": "Tuna is high in protein and provides 31g of protein per serving."
+    },
+    {
+        "input": {"input_question": "How long does it take to prepare Baja-Style Salmon Tacos?"},
+        "output": "20 minutes prep time and 15 minutes cook time."
+    },
+    {
+        "input": {"input_question": "What cooking tip is provided for cocoa-spiced beef tenderloin?"},
+        "output": "Pair with a side of rice and grilled romaine lettuce with Caesar dressing."
+    }
+]

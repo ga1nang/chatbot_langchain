@@ -39,3 +39,6 @@ crewai_tools
 langgraph 
 langsmith
 lamini
+pinecone-text
+pinecone-client
+pinecone-notebooks
